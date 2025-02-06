@@ -17,7 +17,7 @@ const Footer = () => {
                     <p>
                         Built by | &nbsp;
                         <a
-                            href="https://github.com/SriHarsha-Godavarthi/redux-shopping-cart"
+                            href="https://reduxstore-harsha.netlify.app/"
                             target="_blank"
                             rel="noreferrer"
                         >

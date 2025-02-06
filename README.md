@@ -1,6 +1,6 @@
 # Redux Shopping Cart
 
-### [Demo Link]() 🔗
+### [Demo Link](https://reduxstore-harsha.netlify.app/) 🔗
 
 **Shopping Cart Project** built with **React** + **Redux-Toolkit**.
 
